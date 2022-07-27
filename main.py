@@ -26,7 +26,7 @@ except:
 import time
 
 
-
+colorama.init(autoreset=True)
 id_list = []
 invite_code = "weYYXeUSNm"
 while True:
